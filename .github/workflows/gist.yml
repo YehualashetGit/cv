@@ -16,7 +16,9 @@ jobs:
       uses: exuanbo/actions-deploy-gist@v1
       with:
         token: ${{ secrets.GH_TOKEN }}
-        gist_id: c9dcfa1b37dec07fb2ee7f36d7278105
+        gist_id: 60a52eab331fb84e6481a11d36bfeb42
         file_path: resume.json
         file_name: resume.json
         description: "Yehualashet Feleke's Updated Resume"
+        public: true
+        update: true

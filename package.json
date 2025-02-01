@@ -9,6 +9,10 @@
       "type": "git",
       "url": "git+https://github.com/YehualashetGit/portfolio.git"
     },
+    "gist": {
+      "id": "60a52eab331fb84e6481a11d36bfeb42",
+      "file": "resume.json"
+    },
     "keywords": [
       "fullstack",
       "react",
