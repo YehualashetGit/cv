@@ -1,0 +1,26 @@
+{
+    "name": "yehualashet-feleke",
+    "version": "1.0.0",
+    "description": "Portfolio and resume of Yehualashet Feleke - Full Stack Developer specializing in React, Node.js, and Cloud Native technologies",
+    "scripts": {
+      "test": "jest --coverage"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/YehualashetGit/portfolio.git"
+    },
+    "keywords": [
+      "fullstack",
+      "react",
+      "nodejs",
+      "typescript",
+      "docker",
+      "kubernetes"
+    ],
+    "author": "Yehualashet Feleke",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/YehualashetGit/portfolio/issues"
+    },
+    "homepage": "https://github.com/YehualashetGit/portfolio#readme"
+  }

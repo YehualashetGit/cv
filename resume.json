@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Yehualashet Feleke",
+    "label": "Full Stack Developer",
+    "image": "",
+    "summary": "Full Stack Developer specializing in React, Node.js, and Cloud Native technologies with expertise in building scalable applications and CI/CD pipelines.",
+    "website": "https://github.com/YehualashetGit/portfolio",
+    "email": "your.email@example.com",
+    "location": {
+      "city": "Addis Ababa",
+      "countryCode": "ET"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "YehualashetGit",
+        "url": "https://github.com/YehualashetGit"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Proficient",
+      "keywords": ["React", "JavaScript", "TypeScript", "HTML/CSS"]
+    },
+    {
+      "name": "Backend",
+      "level": "Proficient",
+      "keywords": ["Node.js", "NestJS", "Golang", "PostgreSQL"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": ["Kubernetes", "Docker", "ArgoCD", "Terraform", "CI/CD"]
+    },
+    {
+      "name": "Testing",
+      "level": "Proficient",
+      "keywords": ["Jest", "Mocha", "Cypress"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Node.js Certification",
+      "awarder": "HackerRank",
+      "date": "2023"
+    },
+    {
+      "title": "React.js Certification",
+      "awarder": "HackerRank",
+      "date": "2020"
+    }
+  ],
+  "work": [
+    {
+      "name": "EverTeam",
+      "website": "https://github.com/ever-co/ever-teams",
+      "position": "Full Stack Developer",
+      "startDate": "2022",
+      "highlights": [
+        "Implemented dynamic table views for task management",
+        "Enhanced collaboration features",
+        "Improved application performance by 40%"
+      ],
+      "summary": "Contributed to enterprise-level team collaboration platform development"
+    },
+    {
+      "name": "SurveyLabs",
+      "website": "https://survey.hiyawlabs.com/",
+      "position": "Backend Developer",
+      "startDate": "2021",
+      "highlights": [
+        "Implemented Keycloak authentication system",
+        "Designed CI/CD pipelines with ArgoCD",
+        "Optimized Kubernetes cluster performance"
+      ],
+      "summary": "Developed secure survey platform with Golang backend"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Amharic",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cloud Infrastructure"
+    },
+    {
+      "name": "Agile Development"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Cooking"
+    }
+  ]
+}
