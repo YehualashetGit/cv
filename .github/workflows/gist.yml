@@ -23,3 +23,5 @@ jobs:
         public: true
         update: true
         force: true
+      env:
+        DEBUG: true
