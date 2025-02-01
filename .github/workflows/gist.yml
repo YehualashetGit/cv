@@ -22,3 +22,4 @@ jobs:
         description: "Yehualashet Feleke's Updated Resume"
         public: true
         update: true
+        force: true
