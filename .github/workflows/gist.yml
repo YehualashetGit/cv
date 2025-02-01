@@ -17,11 +17,14 @@ jobs:
       with:
         token: ${{ secrets.GH_TOKEN }}
         gist_id: 60a52eab331fb84e6481a11d36bfeb42
+        gist_owner: YehualashetGit
         file_path: resume.json
         file_name: resume.json
         description: "Yehualashet Feleke's Updated Resume"
         public: true
         update: true
         force: true
+        silent: false
       env:
         DEBUG: true
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
